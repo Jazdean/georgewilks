@@ -124,12 +124,12 @@ footer {
 }
 
 a {
-    color: #627169;
+    color: #2b4638;
     text-decoration: underline;
     transition: color 0.2s;
 }
 a:hover {
-    color: #1d4d1a;
+    color: #244a22;
 }
 
 /* Responsive styles for mobile devices */
