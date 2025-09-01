@@ -18,28 +18,34 @@ h1 {text-align: center;
     background-color: #1c463f;
 }
 h2 {
-    text-align: center;
+    text-align: left;
     color: #1f2c1f;
     font-family: raleway, sans-serif;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 h3 {
     margin-left: 100px;
     margin-right: 100px;
+    font-family: raleway, sans-serif;
 }
 h4 {
     margin-left: 100px;
     margin-right: 100px;
     color: #0f270f;
+    font-family: raleway, sans-serif;
 }
 h5 {
     margin-left: 100px;
     margin-right: 100px;
+    font-family: raleway, sans-serif;
 }
 p {
     margin-top: 8px;
     margin-bottom: 8px;
     margin-left: 0px;
     margin-right: 20px;
+    font-family: raleway, sans-serif;
 }
 
 nav {
