@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #e3eadf;
+    background-color: #e9eee6;
 }
 
 header {
@@ -31,7 +31,7 @@ h3 {
 h4 {
     margin-left: 100px;
     margin-right: 100px;
-    color: #1f2c1f;
+    color: #0f270f;
 }
 p {
     margin-top: 8px;
@@ -112,6 +112,15 @@ footer {
 .column {
     flex: 1;
     min-width: 250px;
+}
+
+a {
+    color: #627169;
+    text-decoration: underline;
+    transition: color 0.2s;
+}
+a:hover {
+    color: #1d4d1a;
 }
 
 /* Responsive styles for mobile devices */
